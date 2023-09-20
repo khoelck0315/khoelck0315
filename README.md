@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khoelck0315
 - 👀 I’m interested in ... Finding an open source project to contribue to, and working on my many personal projects.
-- 🌱 I’m currently learning ... C# - specifically ASP.NET core, Blazor, and creating other utility applications
-- 💞️ I’m looking to collaborate on ... Any web projects involving PHP or any .NET projects
+- 🌱 I’m currently learning ... C#
+- 💞️ I’m looking to collaborate on ... Any web projects involving PHP/Laravel, or any .NET projects.
 
 # My Current .NET Projects
 - A parental control application for windows using a windows service with a WPF frontend to control screen time.
