@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ... C#
 - 💞️ I’m looking to collaborate on ... Any web projects involving PHP/Laravel, or any .NET projects.
 
+# My Current PHP projects
+- Expanding my laravel-portfolio page to add more content.  And eventually, a blog.
+
 # My Current .NET Projects
 - A parental control application for windows using a windows service with a WPF frontend to control screen time.
 - A kid-safe Chromium based browser written in .NET
